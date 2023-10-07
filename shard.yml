@@ -1,0 +1,10 @@
+name: build-info
+version: 0.1.2
+
+authors:
+  - Wayne Walker <wwalker@solid-constructs.com>
+  - Jaime Fournier <jaimef@linbsd.org>
+
+crystal: 1.9.2
+
+license: MIT
